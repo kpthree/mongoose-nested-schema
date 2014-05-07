@@ -1,6 +1,6 @@
     //Creating server
 	var express = require('express')
-      , app = express.createServer()
+      , app = express()
       , mongoose = require('mongoose')
       , Category = require('./schema');
 	  
@@ -86,4 +86,4 @@
     });
 
     app.listen(8000);
-    console.log("listening on port %d", app.address().port);
+    console.log("listening on port %d", 8000);
