@@ -3,10 +3,7 @@ Dynamic collections using mongoose - API samples using Node.js with MongoDB and 
 
 <b>Run the the following commands to install Node modules express and mongoose</b>
 
-
-npm install express
-
-npm install mongoose
+npm install 
 
 <b>To run the app</b>
 <ol>
