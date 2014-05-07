@@ -1,0 +1,13 @@
+{
+  "name": "dynamic-collections",
+  "description": "Dynamic collections using mongoose - API samples using Node.js with MongoDB and Mongoose",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "mongoose": "3.6.x"
+  },
+  "scripts": {
+    "start": "server.js"
+  }
+}
